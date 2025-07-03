@@ -15,7 +15,7 @@ I'm a developer focused on building full-stack apps <br>that are functional, sca
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atithi2908&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
