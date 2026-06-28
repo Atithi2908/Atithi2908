@@ -1,97 +1,220 @@
-# 💫 About Me:
+<!-- Banner (Optional)
+<img src="YOUR_BANNER_IMAGE" width="100%" />
+-->
 
-I’m a backend-focused full-stack developer passionate about  
-building scalable systems, distributed architectures, and production-ready applications.
+<h1 align="center">Hi 👋, I'm Atithi Jaiman</h1>
 
-I specialize in designing and deploying real-world systems — from architecture  
-to CI/CD pipelines and cloud deployment.
+<h3 align="center">
+I build systems that scale, automate, and survive production.
+</h3>
 
-Currently exploring:
-- Distributed systems  
-- DevOps & CI/CD automation  
-- Cloud infrastructure (Azure)  
-- Scalable backend architectures  
-
----
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atithi_jaiman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atithi-jaiman-73662a289)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atithijaiman29@gmail.com)
+<p align="center">
+Backend Engineer • Distributed Systems • AI Agents • DevOps
+</p>
 
 ---
 
-# 🚀 What I Work With
+# 💫 About Me
 
-### 🧠 Backend & Systems
-- Node.js
-- Express.js
-- TypeScript
-- Prisma ORM
-- REST APIs
-- JWT Authentication
-- RabbitMQ (Message Queues)
-- Monorepo architecture (pnpm + turbo)
+I'm a Computer Science student at **IIIT Dharwad** passionate about building software that solves engineering problems at scale.
 
-### 📦 DevOps & Deployment
-- Docker & Docker Compose
-- Nginx (Reverse Proxy)
-- CI/CD with Jenkins
-- GitHub Actions
-- Azure Virtual Machines
-- SSL / HTTPS (Certbot)
-- Linux Server Management
+Rather than building simple CRUD applications, I enjoy designing **distributed systems**, **AI-powered applications**, and **production-ready backend architectures** with reliability, automation, and performance in mind.
 
-### 📱 Frontend & Mobile
-- Flutter
-- Android (Kotlin)
-- JavaScript / TypeScript
+Currently spending most of my time building:
 
-### 🗄 Databases
-- MongoDB
-- PostgreSQL
-- Firebase
+- 🤖 Autonomous AI Agents
+- ⚙️ Distributed Backend Systems
+- ☁️ Cloud Infrastructure
+- 🚀 DevOps & CI/CD Pipelines
+- 📦 Event Driven Architectures
 
 ---
 
-# 💻 Tech Stack:
+# 🚀 Featured Projects
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+## 🤖 NEXA — Autonomous AI Agent
 
----
+A modular AI Agent capable of browser automation, desktop automation, RAG, memory, filesystem operations and tool orchestration.
 
-# 📊 GitHub Stats:
+**Highlights**
 
-![](https://github-readme-stats.vercel.app/api?username=Atithi2908&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Atithi2908&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atithi2908&theme=dark&hide_border=false&layout=compact)
+- LangGraph based planner & executor
+- Persistent vector memory using Qdrant
+- Browser automation with Playwright
+- Desktop automation
+- RAG powered document understanding
+- Modular Tool Framework
+
+**Tech**
+
+Python • LangChain • LangGraph • Ollama • Qdrant • Playwright
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Backend Monitoring System
 
-![](https://github-profile-trophy.vercel.app/?username=Atithi2908&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+A distributed backend monitoring platform inspired by production observability systems.
+
+**Highlights**
+
+- Plug-and-play SDK
+- RabbitMQ based event pipeline
+- Worker architecture
+- Real-time alerts
+- Jenkins CI/CD
+- Dockerized deployment
+
+**Tech**
+
+Node.js • Express • PostgreSQL • RabbitMQ • Docker • Jenkins
 
 ---
 
-### 💭 Dev Quote
+## 📈 TradeInCase
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+A real-time paper trading platform with instant order execution.
+
+**Highlights**
+
+- Live WebSocket market updates
+- Redis powered order engine
+- Portfolio tracking
+- Azure deployment
+- Dockerized infrastructure
+
+**Tech**
+
+React • Express • PostgreSQL • Redis • Docker • Azure
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Atithi2908&icon=0&color=0)](https://visitcount.itsvg.in)
+# ⚡ Engineering Interests
+
+- Distributed Systems
+- Backend Architecture
+- AI Agents
+- DevOps
+- Cloud Infrastructure
+- System Design
+- Event Driven Systems
+- Developer Tooling
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+
+### AI
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4E7B?style=for-the-badge)
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4E7B?style=for-the-badge)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+# 🏆 Achievements
+
+🥇 LeetCode Knight (1850+ Rating)
+
+⭐ CodeChef 3★
+
+☁️ AWS Educate Cloud 101 Certified
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atithi2908&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atithi2908&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Atithi2908&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Distributed Systems
+- Kubernetes
+- Azure Cloud
+- System Design
+- AI Infrastructure
+- Production Observability
+
+---
+
+# ⚡ Fun Facts
+
+- I enjoy optimizing backend systems more than building UIs.
+- Dockerizing everything has become a habit.
+- I spend Sundays solving LeetCode contests.
+- If something can be automated, I'll probably automate it.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/atithi-jaiman-73662a289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:atithijaiman29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Atithi2908">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/atithi_jaiman">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### *"Building software is easy. Building systems people can trust is engineering."*
+
+</p>
