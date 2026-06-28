@@ -2,14 +2,8 @@
 <img src="YOUR_BANNER_IMAGE" width="100%" />
 -->
 
-<h1 align="center">Hi 👋, I'm Atithi Jaiman</h1>
-
-<h3 align="center">
-I build systems that scale, automate, and survive production.
-</h3>
-
 <p align="center">
-Backend Engineer • Distributed Systems • AI Agents • DevOps
+  <img src="Banner.png" width="100%" alt="Atithi Jaiman Banner">
 </p>
 
 ---
