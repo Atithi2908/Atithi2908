@@ -141,8 +141,6 @@ React • Express • PostgreSQL • Redis • Docker • Azure
 
 ⭐ CodeChef 3★
 
-☁️ AWS Educate Cloud 101 Certified
-
 ---
 
 # 📊 GitHub Analytics
@@ -160,26 +158,6 @@ React • Express • PostgreSQL • Redis • Docker • Azure
 <img src="https://nirzak-streak-stats.vercel.app/?user=Atithi2908&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- Distributed Systems
-- Kubernetes
-- Azure Cloud
-- System Design
-- AI Infrastructure
-- Production Observability
-
----
-
-# ⚡ Fun Facts
-
-- I enjoy optimizing backend systems more than building UIs.
-- Dockerizing everything has become a habit.
-- I spend Sundays solving LeetCode contests.
-- If something can be automated, I'll probably automate it.
 
 ---
 
@@ -209,6 +187,6 @@ React • Express • PostgreSQL • Redis • Docker • Azure
 
 <p align="center">
 
-### *"Building software is easy. Building systems people can trust is engineering."*
+### *""*
 
 </p>
