@@ -14,85 +14,19 @@ I'm a Computer Science student at **IIIT Dharwad** passionate about building sof
 
 Rather than building simple CRUD applications, I enjoy designing **distributed systems**, **AI-powered applications**, and **production-ready backend architectures** with reliability, automation, and performance in mind.
 
-Currently spending most of my time building:
-
-- 🤖 Autonomous AI Agents
-- ⚙️ Distributed Backend Systems
-- ☁️ Cloud Infrastructure
-- 🚀 DevOps & CI/CD Pipelines
-- 📦 Event Driven Architectures
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 NEXA — Autonomous AI Agent
-
-A modular AI Agent capable of browser automation, desktop automation, RAG, memory, filesystem operations and tool orchestration.
-
-**Highlights**
-
-- LangGraph based planner & executor
-- Persistent vector memory using Qdrant
-- Browser automation with Playwright
-- Desktop automation
-- RAG powered document understanding
-- Modular Tool Framework
-
-**Tech**
-
-Python • LangChain • LangGraph • Ollama • Qdrant • Playwright
-
----
-
-## 📊 Backend Monitoring System
-
-A distributed backend monitoring platform inspired by production observability systems.
-
-**Highlights**
-
-- Plug-and-play SDK
-- RabbitMQ based event pipeline
-- Worker architecture
-- Real-time alerts
-- Jenkins CI/CD
-- Dockerized deployment
-
-**Tech**
-
-Node.js • Express • PostgreSQL • RabbitMQ • Docker • Jenkins
-
----
-
-## 📈 TradeInCase
-
-A real-time paper trading platform with instant order execution.
-
-**Highlights**
-
-- Live WebSocket market updates
-- Redis powered order engine
-- Portfolio tracking
-- Azure deployment
-- Dockerized infrastructure
-
-**Tech**
-
-React • Express • PostgreSQL • Redis • Docker • Azure
-
 ---
 
 # ⚡ Engineering Interests
 
 - Distributed Systems
 - Backend Architecture
-- AI Agents
-- DevOps
+- Systems Programming
+- Linux & Networking
 - Cloud Infrastructure
-- System Design
-- Event Driven Systems
+- DevOps
+- Event-Driven Systems
+- AI Agents
 - Developer Tooling
-
 ---
 
 # 🛠 Tech Stack
@@ -132,14 +66,6 @@ React • Express • PostgreSQL • Redis • Docker • Azure
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-# 🏆 Achievements
-
-🥇 LeetCode Knight (1850+ Rating)
-
-⭐ CodeChef 3★
 
 ---
 
