@@ -70,19 +70,22 @@ Rather than building simple CRUD applications, I enjoy designing **distributed s
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atithi2908&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Atithi2908&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atithi2908&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atithi2908&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Atithi2908&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=Atithi2908&theme=tokyonight&hide_border=true"/>
 
+</p>
 </p>
 
 ---
